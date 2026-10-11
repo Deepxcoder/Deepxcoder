@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey there, I'm Deep 👋
 
-<!--
-**Deepxcoder/Deepxcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building scalable full-stack web applications and efficient backend systems. I enjoy bridging the gap between low-level logic and modern web architecture.
 
-Here are some ideas to get you started:
+**What I work on:**
+- Designing robust databases and APIs
+- Building responsive, clean frontend interfaces
+- Solving complex algorithmic problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Toolkit:**
+- **Languages:** JavaScript, Python, C, C++
+- **Frontend:** HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, SQL
+
+**Let's connect:**
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- Email: deepxkotval@gmail.com
